@@ -1,14 +1,21 @@
 [
   {
-    "name": "Letterboxd Link on Movies",
     "guid": "d20f95e1-8b89-7c2b-9e73-43e9f3d29f10",
-    "version": "1.0.0.0",
-    "targetAbi": "10.8.0.0",
-    "framework": "net8.0",
+    "name": "Letterboxd Link on Movies",
     "overview": "Adds a Letterboxd link to movie detail pages.",
     "description": "This plugin adds a Letterboxd external link on movies, using their IMDb ID.",
     "owner": "zamhedonia",
     "category": "Metadata",
-    "imageUrl": "https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/refs/heads/master/Image.png"
+    "imageUrl": "https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/refs/heads/master/Image.png",
+    "versions": [
+      {
+        "version": "1.0.0.0",
+        "targetAbi": "10.8.0.0",
+        "framework": "net8.0",
+        "sourceUrl": "https://github.com/zamhedonia/JellyfinLetterboxdLink/releases/download/1.0.0.0/LetterboxdLinkPlugin-v1.0.0.0.zip",
+        "checksum": "",
+        "timestamp": "2025-08-19 18:00:00"
+      }
+    ]
   }
 ]
