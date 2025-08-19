@@ -11,7 +11,7 @@ The link is generated from each movie’s IMDb ID, pointing directly to its corr
 
 ## Installing from Repository (Recommended)
 
-1. Open **Jellyfin Dashboard** → **Catalog** → **Settings Icon**.
+1. Open **Jellyfin Dashboard** → **Catalog** → **Settings Icon (⚙️)**.
 2. Click **+**.
 3. Enter:
    - **Repository Name:** Letterboxd Link  
