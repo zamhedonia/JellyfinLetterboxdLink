@@ -9,6 +9,20 @@ The link is generated from each movie’s IMDb ID, pointing directly to its corr
 - Adds a Letterboxd button alongside your other external links (IMDb, TMDb, etc.)
 - Works only for **movies**
 
+## Installing from Repository (Recommended)
+
+1. Open **Jellyfin Dashboard** → **Catalog** → **Settings Icon**.
+2. Click **+**.
+3. Enter:
+   - **Repository Name:** Letterboxd Link  
+   - **Repository URL:**  
+     ```
+     https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/master/manifest.json
+     ```
+4. Save, then go to the **Catalog** tab.
+5. Find **Letterboxd Link on Movies** and click **Install**.
+6. Restart Jellyfin.
+
 ## How to build from source
 
 ### Prerequisites
