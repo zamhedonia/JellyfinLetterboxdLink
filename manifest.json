@@ -8,5 +8,5 @@
   "description": "This plugin adds a Letterboxd external link on movies, using their IMDb ID.",
   "owner": "zamhedonia",
   "category": "Metadata",
-  "imageUrl": "https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/master/Image.png"
+  "imageUrl": "https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/refs/heads/master/Image.png"
 }
