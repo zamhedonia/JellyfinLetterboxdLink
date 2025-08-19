@@ -29,7 +29,7 @@ The link is generated from each movie’s IMDb ID, pointing directly to its corr
 
 Before building this plugin from source, make sure you have:
 
-- [.NET SDK 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) or later  
+- [.NET SDK 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) or later, [install here](https://learn.microsoft.com/en-us/dotnet/core/install/linux)
   (verify with `dotnet --version`)
 - A C# build environment (Linux, macOS, or Windows)
 - `git` installed to clone the repository
