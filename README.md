@@ -59,7 +59,7 @@ Before building this plugin from source, make sure you have:
   ```
 5. Copy over the created files
   ```bash
-  mkdir LetterboxdLinkOnMovies; cp ~/JellyfinLetterboxdLink/bin/Release/net8.0/*.dll ./
+  mkdir LetterboxdLinkOnMovies; cd LetterboxdLinkOnMovies; cp ~/JellyfinLetterboxdLink/bin/Release/net8.0/*.dll ./
   ```
 6. Restart Jellyfin via your preferred method
 
