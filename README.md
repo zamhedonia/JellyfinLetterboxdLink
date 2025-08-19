@@ -1,6 +1,6 @@
 # Letterboxd Link on Jellyfin Movies
 
-![Image](https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/master/Image.png)
+<img alt="Logo" src="https://raw.githubusercontent.com/zamhedonia/JellyfinLetterboxdLink/master/Image.png" width="400" />
 
 A simple Jellyfin plugin that adds a **Letterboxd external link** to movie detail pages.  
 The link is generated from each movie’s IMDb ID, pointing directly to its corresponding page on [Letterboxd](https://letterboxd.com).
@@ -8,6 +8,8 @@ The link is generated from each movie’s IMDb ID, pointing directly to its corr
 ## Features
 - Adds a Letterboxd button alongside your other external links (IMDb, TMDb, etc.)
 - Works only for **movies**
+
+<img alt="Preview" src="https://raw.githubusercontent.com/zamhedonia/images/refs/heads/master/Letterboxd.png" width="400" />
 
 ## Installing from Repository (Recommended)
 
